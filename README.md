@@ -1,1 +1,1 @@
-First project which i downloaded to GitHub. This is Alien Invasion game. 
+First project I uploaded to GitHub. This is Alien Invasion game. 
